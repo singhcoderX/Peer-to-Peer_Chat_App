@@ -1,4 +1,4 @@
-# Peer-to-Peer_Chat_App
+# Peer-to-Peer Multiple Client Chat Application: Socket Programming
 A working Solution for Multiple clients Peer to Peer chat Application built using Socket Programming in Python3.
 By: Aryan Singh 
 Peer-to-Peer Multiple Client Chat Application: Socket Programming     

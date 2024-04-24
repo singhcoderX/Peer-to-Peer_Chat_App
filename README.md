@@ -1,5 +1,5 @@
-# Peer-to-Peer Multiple Client Chat Application: Socket Programming
-
+# PeerChat: A Robust Peer-to-Peer Chat Application in Python3
+PeerChat is a feature-rich, peer-to-peer chat application built using Python3 and Socket Programming. It offers a seamless communication experience for multiple clients, allowing them to chat directly with each other without any intermediary server.
 ***
      
 ## Installation
